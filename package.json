@@ -1,0 +1,9 @@
+{
+  "name": "baiscope-puppeteer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "puppeteer": "^23.1.1"
+  }
+}
