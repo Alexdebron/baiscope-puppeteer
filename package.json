@@ -4,6 +4,6 @@
   "type": "module",
   "dependencies": {
     "puppeteer-core": "^23.1.1",
-    "chrome-aws-lambda": "^20.2.0"
+    "chrome-aws-lambda": "^19.0.0"
   }
 }
